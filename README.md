@@ -400,13 +400,13 @@
 
 3. ## Explicación de la normalización.
 
-4. ![normalizacion](/Users/franco/Desktop/normalizacion.png)
+4. ![normalizacion](normalizacion.png)
 
 5. 
 
    #### Tablas en 1FN:
 
-   ![forma1](/Users/franco/Documents/forma1.png)
+   ![forma1](forma1.png)
 
    Se caracterizan por que no hay múltiples valores en una misma celda, hay una sola llave primaria y cada atributo es atómico.
 
